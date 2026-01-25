@@ -12,8 +12,8 @@
     <Copyright>Copyright $([System.DateTime]::Now.Year) Maintainers of RiderUprojectModelModsFix</Copyright>
     <PackageTags>resharper plugin</PackageTags>
 
-    <PackageProjectUrl></PackageProjectUrl>
-    <PackageLicenseUrl></PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/Archengius/RiderUprojectModelModsFix</PackageProjectUrl>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/Archengius/RiderUprojectModelModsFix/refs/heads/master/LICENSE</PackageLicenseUrl>
     <PackageIconUrl></PackageIconUrl>
   </PropertyGroup>
 
