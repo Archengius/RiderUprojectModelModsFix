@@ -1,0 +1,20 @@
+﻿<Project>
+
+  <PropertyGroup>
+    <!-- See https://www.nuget.org/packages/JetBrains.ReSharper.SDK -->
+    <!-- Keep in sync with ProductVersion in gradle.properties -->
+    <SdkVersion>2025.3.0.1</SdkVersion>
+
+    <Title>Rider Uproject Model Mods/ Fix</Title>
+    <Description>Fixes Rider Uproject Model not showing Unreal Engine C++ plugins located under ProjectDir/Mods in the Solution Explorer. Associated issue on YouTrack: RIDER-90664</Description>
+
+    <Authors>Archengius</Authors>
+    <Copyright>Copyright $([System.DateTime]::Now.Year) Maintainers of RiderUprojectModelModsFix</Copyright>
+    <PackageTags>resharper plugin</PackageTags>
+
+    <PackageProjectUrl></PackageProjectUrl>
+    <PackageLicenseUrl></PackageLicenseUrl>
+    <PackageIconUrl></PackageIconUrl>
+  </PropertyGroup>
+
+</Project>
