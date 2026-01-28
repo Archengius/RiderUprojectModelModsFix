@@ -1,5 +1,5 @@
-# RiderUprojectModelModsFix for Rider
+# Uproject Model Mods Fix for Rider
 
-[![ReSharper](https://img.shields.io/jetbrains/plugin/v/29902-rider-uproject-model-mods-fix.svg?label=ReSharper&colorB=0A7BBB&style=for-the-badge&logo=resharper)](https://plugins.jetbrains.com/plugin/29902-rider-uproject-model-mods-fix)
+[![Rider](https://img.shields.io/jetbrains/plugin/v/29974-unreal-project-model-mods-fix.svg?label=Rider&colorB=0A7BBB&style=for-the-badge&logo=rider)](https://plugins.jetbrains.com/plugin/29974-unreal-project-model-mods-fix)
 
 A plugin to workaround RIDER-90664 until it is fixed upstream.
